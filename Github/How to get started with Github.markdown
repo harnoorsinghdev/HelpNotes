@@ -35,4 +35,11 @@ To https://github.com/harnoorsinghdev/HelpNotes
    8a5d269..d356b3d  master -> master`
 
 
-k
+ 2003  git checkout New-Branch-Help
+ 2004  git push origin
+ 2005  git push origin New-Branch-Help
+ 2006  git add .
+ 2007  git commit -m "demo2"
+ 2008  git add .
+ 2009  git commit -m "demo2"
+ 2010  git push origin New-Branch-Help
